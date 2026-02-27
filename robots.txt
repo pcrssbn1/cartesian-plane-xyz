@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cartesian-plane.xyz/sitemap.xml
